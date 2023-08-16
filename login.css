@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+padding: 0;
+font-family:'Poppins', sans-serif;
+box-sizing: border-box;
+}
+.contaner{
+    height: 100px;
+    width:  100%;
+ background-color: aqua;
+
+}
+.form-box{
+    width: 90%;
+    max-width: 450px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: #fff;
+    padding: 50px,60px,70px;
+    text-align: center;
+}

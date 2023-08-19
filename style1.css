@@ -35,3 +35,11 @@
     transform: translate(-50%, -50%);
     color: white;
 }
+footer {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+align-items: center;
+text-align: center;
+background:rgb(25, 1, 1);}
